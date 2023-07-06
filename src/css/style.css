@@ -1,0 +1,98 @@
+header {
+    height: 75px;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    color: #333;
+}
+
+card-body {
+    width: 1728px;
+    height: 3466px;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+h2 {
+    font-size: 32px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+card-title {
+    font-size: 28px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.card-text {
+    font-size: 16px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+a {
+    color: #009BD9;
+    font-size: 16px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+p {
+    font-size: 24px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+body hr {
+    background: rgba(153, 153, 153, 0.60);
+}
+
+footer {
+    color: #FFF;
+    font-family: Inter;
+    color: white;
+    font-style: normal;
+    line-height: normal;
+}
+
+footer .footer-logo {
+    padding-right: 70px;
+}
+
+footer ul {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+footer ul li {
+    font-size: 16px;
+    font-weight: 300;
+}
+
+footer p {
+    font-size: 16px;
+    font-weight: 300;
+}
+.info_head{
+    font-size: 20px;
+    font-weight: 500;
+}
